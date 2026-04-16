@@ -183,6 +183,22 @@
       ],
       "tags": [],
       "uuid": "9f828f2c-c5d2-4fcd-9296-dd8aa8b29de1"
+    },
+    {
+      "start_time": 110,
+      "end_time": 116,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Language: Dutch"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "131508d0-e905-407e-a9b3-8b0c7181bd79"
     }
   ],
   "set": "Default",
