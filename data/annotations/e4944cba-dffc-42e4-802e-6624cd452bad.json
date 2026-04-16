@@ -295,6 +295,22 @@
       ],
       "tags": [],
       "uuid": "5c04b037-036c-4c5b-aea6-c77b54684dd7"
+    },
+    {
+      "start_time": 163,
+      "end_time": 164,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Language: English"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "9aa271d7-3b3d-46ea-b0a7-70324786a651"
     }
   ],
   "set": "Default",
