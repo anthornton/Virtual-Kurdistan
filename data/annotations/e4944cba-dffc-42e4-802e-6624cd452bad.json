@@ -255,7 +255,12 @@
           ]
         }
       ],
-      "tags": [],
+      "tags": [
+        {
+          "category": "Language",
+          "tag": "Dutch"
+        }
+      ],
       "uuid": "131508d0-e905-407e-a9b3-8b0c7181bd79"
     },
     {
