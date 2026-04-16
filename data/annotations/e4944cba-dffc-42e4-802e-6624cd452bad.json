@@ -18,13 +18,13 @@
     },
     {
       "start_time": 18,
-      "end_time": 0,
+      "end_time": 28,
       "annotation": [
         {
           "type": "paragraph",
           "children": [
             {
-              "text": "Language shift to Dutch"
+              "text": "Language: Dutch"
             }
           ]
         }
