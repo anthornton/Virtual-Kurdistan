@@ -213,7 +213,12 @@
           ]
         }
       ],
-      "tags": [],
+      "tags": [
+        {
+          "category": "Language",
+          "tag": "English"
+        }
+      ],
       "uuid": "0f05ef06-9637-4896-b4cb-b89ccf774322"
     },
     {
