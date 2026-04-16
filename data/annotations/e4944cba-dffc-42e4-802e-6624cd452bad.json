@@ -239,6 +239,30 @@
       ],
       "tags": [],
       "uuid": "98888425-131d-4636-ab0c-3426d20fab7b"
+    },
+    {
+      "start_time": 123,
+      "end_time": 142,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Form: Chorus"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Language: Dutch"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "c9ee7027-cc3d-4477-b8a1-c2e4d61a61bc"
     }
   ],
   "set": "Default",
