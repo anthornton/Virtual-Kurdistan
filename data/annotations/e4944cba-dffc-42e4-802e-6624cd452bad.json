@@ -13,7 +13,16 @@
           ]
         }
       ],
-      "tags": [],
+      "tags": [
+        {
+          "category": "Language",
+          "tag": "Arabic"
+        },
+        {
+          "category": "Original Source (Samples, Lyrics, Etc.)",
+          "tag": "Embedded AV Footage"
+        }
+      ],
       "uuid": "c015b268-9c47-4f4f-bdfe-8053502099f1"
     },
     {
