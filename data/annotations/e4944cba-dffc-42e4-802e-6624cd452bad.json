@@ -379,7 +379,16 @@
           ]
         }
       ],
-      "tags": [],
+      "tags": [
+        {
+          "category": "Language",
+          "tag": "Dutch"
+        },
+        {
+          "category": "Musical Features",
+          "tag": "Flow Style"
+        }
+      ],
       "uuid": "5c04b037-036c-4c5b-aea6-c77b54684dd7"
     },
     {
