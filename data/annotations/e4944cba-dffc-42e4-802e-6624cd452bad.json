@@ -404,7 +404,12 @@
           ]
         }
       ],
-      "tags": [],
+      "tags": [
+        {
+          "category": "Language",
+          "tag": "English"
+        }
+      ],
       "uuid": "9aa271d7-3b3d-46ea-b0a7-70324786a651"
     },
     {
