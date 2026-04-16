@@ -63,6 +63,22 @@
       ],
       "tags": [],
       "uuid": "aeefbfcd-c669-4157-bca3-ee4667f07ff6"
+    },
+    {
+      "start_time": 40,
+      "end_time": 60,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Language: Dutch"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "e05aada6-e907-4f30-a26c-d95beee4922e"
     }
   ],
   "set": "Default",
