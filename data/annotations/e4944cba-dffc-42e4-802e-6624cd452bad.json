@@ -284,7 +284,20 @@
           ]
         }
       ],
-      "tags": [],
+      "tags": [
+        {
+          "category": "Language",
+          "tag": "Dutch"
+        },
+        {
+          "category": "Language",
+          "tag": "English"
+        },
+        {
+          "category": "Language",
+          "tag": "Kurmanji Kurdish"
+        }
+      ],
       "uuid": "ec24787c-0e78-49f5-b88c-e1fe800b576c"
     },
     {
