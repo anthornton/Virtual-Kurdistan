@@ -47,6 +47,22 @@
       ],
       "tags": [],
       "uuid": "d53ce9a2-76fe-4b89-9345-ec3922837be8"
+    },
+    {
+      "start_time": 36,
+      "end_time": 39,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Language: Arabic? or still Kurdish?"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "aeefbfcd-c669-4157-bca3-ee4667f07ff6"
     }
   ],
   "set": "Default",
