@@ -79,6 +79,30 @@
       ],
       "tags": [],
       "uuid": "e05aada6-e907-4f30-a26c-d95beee4922e"
+    },
+    {
+      "start_time": 60,
+      "end_time": 81,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Form: Chorus"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Language: Primarily Dutch, but could be switching in and out vocabulary-wise"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "28d17dce-6739-4953-8ceb-9fb4396070dc"
     }
   ],
   "set": "Default",
