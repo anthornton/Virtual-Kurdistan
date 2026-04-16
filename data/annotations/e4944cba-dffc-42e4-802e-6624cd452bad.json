@@ -163,7 +163,12 @@
           ]
         }
       ],
-      "tags": [],
+      "tags": [
+        {
+          "category": "Language",
+          "tag": "Kurmanji Kurdish"
+        }
+      ],
       "uuid": "8b6d3990-62de-4c40-8b7e-b4985637605c"
     },
     {
