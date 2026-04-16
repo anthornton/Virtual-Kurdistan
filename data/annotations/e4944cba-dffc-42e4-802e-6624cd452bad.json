@@ -199,6 +199,30 @@
       ],
       "tags": [],
       "uuid": "131508d0-e905-407e-a9b3-8b0c7181bd79"
+    },
+    {
+      "start_time": 116,
+      "end_time": 117,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Language: Blended, either Kurdish-Dutch or Kurdish-English"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "\"Merhaba to/te Amed\""
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "ec24787c-0e78-49f5-b88c-e1fe800b576c"
     }
   ],
   "set": "Default",
