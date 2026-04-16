@@ -167,6 +167,22 @@
       ],
       "tags": [],
       "uuid": "0f05ef06-9637-4896-b4cb-b89ccf774322"
+    },
+    {
+      "start_time": 104,
+      "end_time": 110,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Language: Kurmanji Kurdish"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "9f828f2c-c5d2-4fcd-9296-dd8aa8b29de1"
     }
   ],
   "set": "Default",
