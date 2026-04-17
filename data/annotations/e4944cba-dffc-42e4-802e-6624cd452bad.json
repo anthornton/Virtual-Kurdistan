@@ -203,7 +203,7 @@
           "type": "paragraph",
           "children": [
             {
-              "text": "Dit is wat ik doe of wat ik denk dat zal ik schrijven pak pen en ik schreef duidelijk feiten "
+              "text": "Dit is wat ik doe of wat ik denk dat zal ik schrijven "
             }
           ]
         },
@@ -211,7 +211,17 @@
           "type": "paragraph",
           "children": [
             {
-              "text": "Koerden blijven Koerden en rech zullen we krijgen "
+              "text": "pakte me pen ik schreef duidelijk feiten ",
+              "highlight": "#55be67"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Koerden blijven Koerden rechten zullen we krijgen ",
+              "highlight": "#55be67"
             }
           ]
         },
