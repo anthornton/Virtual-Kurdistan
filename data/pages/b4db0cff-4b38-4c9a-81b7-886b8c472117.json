@@ -1,0 +1,110 @@
+{
+  "content": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "This is information on Aynur Dogan's albums."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Seyir (2001)"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Kece Kurdan (2002)"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Nupel (2006)"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Rewend (Gocebe) (2011)"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Hevra (Together) (2013)"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Rewend (Remixed) (2014)"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Hawniyaz (2016)"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Hedur - Solace of Time (2020)"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Lure (Live) (2021)"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Rabe (2024)"
+        }
+      ]
+    }
+  ],
+  "title": "Aynur Dogan's Albums",
+  "autogenerate": {
+    "enabled": false,
+    "type": "custom"
+  },
+  "slug": "aynur-dogans-albums",
+  "created_at": "2026-04-27T18:24:06.102Z",
+  "created_by": "anthornton",
+  "updated_at": "2026-04-27T18:24:06.103Z",
+  "updated_by": "anthornton"
+}
