@@ -1,0 +1,14 @@
+{
+  "content": [],
+  "created_at": "2026-05-11T20:50:34.582Z",
+  "created_by": "anthornton",
+  "title": "Azad - Survivor",
+  "slug": "azad-survivor",
+  "updated_at": "2026-05-11T20:50:34.582Z",
+  "updated_by": "anthornton",
+  "autogenerate": {
+    "enabled": true,
+    "type": "event",
+    "type_id": "92ddff92-c67f-4814-85e7-bae819e87c33"
+  }
+}

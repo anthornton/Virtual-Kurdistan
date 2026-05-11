@@ -1,0 +1,33 @@
+{
+  "audiovisual_files": {
+    "48c93dde-7958-4631-a466-0db4b9452cef": {
+      "label": "Azad - Survivor",
+      "is_offline": false,
+      "file_type": "Video",
+      "file_url": "https://www.youtube.com/watch?v=_YWtCjHtlWs",
+      "duration": 0,
+      "caption_set": [],
+      "set_sort": []
+    }
+  },
+  "auto_generate_web_page": true,
+  "description": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    }
+  ],
+  "citation": "",
+  "label": "Azad - Survivor",
+  "av_file_order": [
+    "48c93dde-7958-4631-a466-0db4b9452cef"
+  ],
+  "created_at": "2026-05-11T20:50:34.006Z",
+  "created_by": "anthornton",
+  "updated_at": "2026-05-11T20:50:34.006Z",
+  "updated_by": "anthornton"
+}
