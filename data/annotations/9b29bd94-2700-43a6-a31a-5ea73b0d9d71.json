@@ -1,1 +1,160 @@
-{"annotations":[],"set":"Default","event_id":"6845930e-00bd-4a3a-9440-cde5ccdd95ec","source_id":"a9a3b17d-246f-4c08-a299-00833f3106ef"}
+{
+  "annotations": [
+    {
+      "start_time": 29,
+      "end_time": 30,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Xatar:"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Ich komm mit hungrigen Dreckskanaks, Buntstift und stechen, Kanak"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Kunst aus deiner Fresse, Kanak"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Im Tracksuit illuminier' ich Rap, Kanak"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Und philosophier' über Crack, Kanak"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Nimmst du die Kugel in Kauf, nur für mich, Kanak"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Kriegst du das gute Einkauf nur für dich, Kanak"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Trage Narben am Hals durch paar Ex-Kanaks"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Vergib meine Rache, ya rab, an den Ex-Kanaks"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Zunge, Finger, nur keine Kinder, Kanak"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Ich schwör', ich such' nach Frieden, doch treib Krieg, Kanak"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Sag, riskierst du Azraels Blick, Kanak?"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Für 'n stabilen Absatz mit H, Kanak?"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Ich hab' gesehen, Kanak, ich hab' gelernt, Kanak"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Geld kommt, Geld verrät und man zählt im Knast"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Jahre, Tage, Sekunden"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Und teilt sich die Toilette mit paar Schore-Endkunden"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Language",
+          "tag": "German"
+        },
+        {
+          "category": "Genre",
+          "tag": "Rap/Hip Hop"
+        }
+      ],
+      "uuid": "914132d0-a924-4d17-92d0-c11320ae6c7b"
+    }
+  ],
+  "set": "Default",
+  "event_id": "6845930e-00bd-4a3a-9440-cde5ccdd95ec",
+  "source_id": "a9a3b17d-246f-4c08-a299-00833f3106ef"
+}
