@@ -198,6 +198,30 @@
       ],
       "tags": [],
       "uuid": "08190e10-f5aa-4363-8d50-a56a78f4ce63"
+    },
+    {
+      "start_time": 0,
+      "end_time": 0,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Context & Complications"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Sehid Hozan Serhad died in 1999 and was involved with the PKK at the end of his life. The video of him playing saz is likely of him performing in Turkish. Link to video: https://www.youtube.com/watch?v=8-aWZY-LZpk&list=PLmE1rFuNApNSdh0RI4aBst5kUVramGNKG&index=46 "
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "946f32a9-3d69-4d12-a6d0-260b0e2459d5"
     }
   ],
   "set": "Default",
