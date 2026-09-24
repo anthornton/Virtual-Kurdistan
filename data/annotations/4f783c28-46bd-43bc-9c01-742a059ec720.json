@@ -124,6 +124,22 @@
       ],
       "tags": [],
       "uuid": "ef12e483-9660-4168-8a0c-33d38702c117"
+    },
+    {
+      "start_time": 143,
+      "end_time": 146,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Both the conclusion to the cinematic introduction and the beginning of the studio version of Revolution are marked by the combination of a gun shot and a strike on a field drum."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "e503fbc5-c0de-4980-a51a-ec0ba0fecd57"
     }
   ],
   "set": "Default",
