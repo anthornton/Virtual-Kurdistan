@@ -1,5 +1,35 @@
 {
-  "annotations": [],
+  "annotations": [
+    {
+      "start_time": 0,
+      "end_time": 10,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The video's soundscape opens with wind moving across the microphone, gun shots in the distance, and a conversation taking place between soldiers off screen."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Soundscape",
+          "tag": "Gun shots"
+        },
+        {
+          "category": "Soundscape",
+          "tag": "Wind"
+        },
+        {
+          "category": "Soundscape",
+          "tag": "Speaking"
+        }
+      ],
+      "uuid": "aef08717-5f38-4c47-a872-0177a9f82eff"
+    }
+  ],
   "set": "Default",
   "event_id": "58ec30cd-9a8e-42eb-bc4c-921a90c2b503",
   "source_id": "4884cc14-3f1f-4230-aa53-f8ff76500a68"
