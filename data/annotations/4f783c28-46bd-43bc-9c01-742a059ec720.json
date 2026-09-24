@@ -108,6 +108,22 @@
       ],
       "tags": [],
       "uuid": "81c7774b-ae9a-4e7e-9c54-fdec1f23b412"
+    },
+    {
+      "start_time": 103,
+      "end_time": 120,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Helly Luv's entrance into the village as it is being bombarded establishes the start musical composition as opposed to synthesizer sound effects and soundscapes within Revolution."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "ef12e483-9660-4168-8a0c-33d38702c117"
     }
   ],
   "set": "Default",
