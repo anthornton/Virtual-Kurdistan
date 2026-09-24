@@ -57,6 +57,35 @@
         }
       ],
       "uuid": "ee098fdb-5dbb-4c3d-b562-6db867e4a0c7"
+    },
+    {
+      "start_time": 38,
+      "end_time": 78,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Verse Lyrics (Kurdish):"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "\nez ax im, ez av im, ez bahoz im, ez agir im\nzivistan im, payîz im, ez bihar im, ez havîn im\nmahabat im, qamişlo, hewlêr û amed im\nez bakûr im, başûr im, rojava û rojhilat im\nez axa zîv û zêr im, petrol im, ez dewlemend im\nşînahî me, ez kulîlk im, kesk û sor û zer im\nxwezayê bedew im, ararat û zagros im\nez serhed û behdînan, dersîm û botan im\nkaniya jînê me, gola ûrmiyê û wan im\nez avaşîn û mûnzûr, dicle û firat im\nez nemrûd im heskîf im, ez mem û zîn im\nji bo mirovahiyê ser çiyayê cûdî lîmal im\nrojê dertînim, newroz im, kaw′a hesinkar im\nez zerdeşt im, silhedîn im, ez pîr sûltan im\nneviyê sumeyra, keça med im, ez dîrok im, ez gel im, ez ax im\nez kudistan im!\n\nSource: https://www.lirikcinta.com/s/serhado/ez-kurdistan-im-serhado/#google_vignette "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Language",
+          "tag": "Kurmanji Kurdish"
+        }
+      ],
+      "uuid": "a2c0fe66-fe75-48af-959f-101da4436750"
     }
   ],
   "set": "Default",
