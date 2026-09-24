@@ -182,6 +182,22 @@
         }
       ],
       "uuid": "1d56fa7a-2a5a-4e5f-9553-e84fa4f733b1"
+    },
+    {
+      "start_time": 197,
+      "end_time": 230,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Outro with duduk, synthesizer, and rhythm."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "08190e10-f5aa-4363-8d50-a56a78f4ce63"
     }
   ],
   "set": "Default",
