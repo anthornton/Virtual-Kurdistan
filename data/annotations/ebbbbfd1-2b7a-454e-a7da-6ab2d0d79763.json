@@ -1,5 +1,31 @@
 {
-  "annotations": [],
+  "annotations": [
+    {
+      "start_time": 0,
+      "end_time": 30,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The music opens with a duduk melody and a synthesizer underneath it. The video pans across a field situated between mountains."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Musical Features",
+          "tag": "Instrumentation"
+        },
+        {
+          "category": "Visual Features",
+          "tag": "Location"
+        }
+      ],
+      "uuid": "1686cf8c-9e73-409c-9b3d-b28ec4e0f3b4"
+    }
+  ],
   "set": "Default",
   "event_id": "00db3fb7-a01f-41b3-99d7-5cad202b77d4",
   "source_id": "e4060e6c-7bea-4b99-a3a6-e37e301d9bb8"
