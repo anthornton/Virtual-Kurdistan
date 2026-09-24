@@ -157,6 +157,31 @@
         }
       ],
       "uuid": "4db6f851-4770-4894-b0c4-9f4febc2498e"
+    },
+    {
+      "start_time": 157,
+      "end_time": 180,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Return to chorus"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Language",
+          "tag": "Kurmanji Kurdish"
+        },
+        {
+          "category": "Genre",
+          "tag": "Stranbej"
+        }
+      ],
+      "uuid": "1d56fa7a-2a5a-4e5f-9553-e84fa4f733b1"
     }
   ],
   "set": "Default",
