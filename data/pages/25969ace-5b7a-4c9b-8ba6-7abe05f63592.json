@@ -1,0 +1,22 @@
+{
+  "content": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "[placeholder for introduction to my dissertation]"
+        }
+      ]
+    }
+  ],
+  "title": "Dissertation Introduction",
+  "autogenerate": {
+    "enabled": false,
+    "type": "custom"
+  },
+  "slug": "dissertation-introduction",
+  "created_at": "2026-09-24T20:01:24.038Z",
+  "created_by": "anthornton",
+  "updated_at": "2026-09-24T20:01:24.038Z",
+  "updated_by": "anthornton"
+}
