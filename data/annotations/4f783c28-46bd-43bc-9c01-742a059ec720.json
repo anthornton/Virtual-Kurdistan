@@ -74,6 +74,59 @@
         }
       ],
       "uuid": "ce9a888d-9d16-45f8-97a5-38154af15df7"
+    },
+    {
+      "start_time": 0,
+      "end_time": 17,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The opening seventeen seconds of Revolution establishes a soundscape of war. Sounds of gunfire, the screech of artillery, explosions, whirling of wind coming in and out of the mix, frantic conversations, and the resettling of rocks, gravel, sand, and debris after the explosions are coming from off screen activity. The solider in frame focused on a photo of a child does not appear to be phased by these sounds, despite his proximity. "
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "J. Martin Daughtry's \"zones of audition\" are in action here. It is a familiar enough soundscape to the soldier."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Soundscape",
+          "tag": "Gun shots"
+        },
+        {
+          "category": "Soundscape",
+          "tag": "Bombs/explosions"
+        },
+        {
+          "category": "Soundscape",
+          "tag": "Wind"
+        },
+        {
+          "category": "Soundscape",
+          "tag": "Sifting"
+        },
+        {
+          "category": "Soundscape",
+          "tag": "Speaking"
+        }
+      ],
+      "uuid": "d7f26b0f-a7e1-40fb-9c00-321bb15b32f2"
     }
   ],
   "set": "Default",
