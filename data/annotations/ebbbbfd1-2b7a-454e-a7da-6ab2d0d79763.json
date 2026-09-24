@@ -132,6 +132,31 @@
         }
       ],
       "uuid": "1fd7c912-75dc-4807-a2e1-22269217dcb5"
+    },
+    {
+      "start_time": 116,
+      "end_time": 180,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Lyrics:\nez tîrêj im, ez pel im, ez berf û baran im\nez teyrêbaz im azmanê me, ez bayê zozan im\nez barê giran im, kul û birînê hezar salan im\nez xwîna axa sor im zext û zilmê re qurban im\nez hêsîr im, bindest im, ez girtiyê zindan im\nleşkerê rojê me, xwe diparêzim, ez berxwedan im\nhêvîdar im, siba serxwebûn im, siba rizgar im\nez welat im, netew im, dilê rojhilata navîn im\nez zarok im û dayîk im, gazî me û şehîd im\ndayika agît, heyrî û mazlûm û kemal pîr im\nqehraman im, bêrîtan im, zîlan im ez bêrîvan im\ndestê xwe radikim û serê xwe dihejînim\ndayika mele mistefa, şêx seîd û bedirxan im\nbîst û neh caran serî rakirime\nez serhildan im, tekoşîn im şerê giran im\nez bawer im û armanc im, ez hêviya azad im\nez kudistan im!\n\n"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Language",
+          "tag": "Kurmanji Kurdish"
+        },
+        {
+          "category": "Genre",
+          "tag": "Rap/Hip Hop"
+        }
+      ],
+      "uuid": "4db6f851-4770-4894-b0c4-9f4febc2498e"
     }
   ],
   "set": "Default",
