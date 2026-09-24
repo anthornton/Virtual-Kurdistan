@@ -84,6 +84,30 @@
       ],
       "tags": [],
       "uuid": "1628bdb6-2bfa-4809-ad9d-03d4f276a812"
+    },
+    {
+      "start_time": 59,
+      "end_time": 80,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Shift in the village soundscape. "
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The rattling of tea glasses on a checker board ushers in the soundscape of assault on the village."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "81c7774b-ae9a-4e7e-9c54-fdec1f23b412"
     }
   ],
   "set": "Default",
