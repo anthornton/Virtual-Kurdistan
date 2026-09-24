@@ -86,6 +86,31 @@
         }
       ],
       "uuid": "a2c0fe66-fe75-48af-959f-101da4436750"
+    },
+    {
+      "start_time": 78,
+      "end_time": 120,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "\nez kudistan im bûka cihan im\ncihê mêrahî şerê giran im\nkaniya jînê, warê hebûnê\nli hêviya we me rojê dertînim\n\n"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Genre",
+          "tag": "Stranbej"
+        },
+        {
+          "category": "Language",
+          "tag": "Kurmanji Kurdish"
+        }
+      ],
+      "uuid": "5d84258d-910f-4b9a-8a8d-11505f3669c8"
     }
   ],
   "set": "Default",
