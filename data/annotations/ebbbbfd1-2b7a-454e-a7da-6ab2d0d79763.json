@@ -24,6 +24,39 @@
         }
       ],
       "uuid": "1686cf8c-9e73-409c-9b3d-b28ec4e0f3b4"
+    },
+    {
+      "start_time": 20,
+      "end_time": 38,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The video toggles between multiple scenes within nature - particularly mountain ranges, plateaus, rivers, and arid fields."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Visual Features",
+          "tag": "Location"
+        },
+        {
+          "category": "Visual Features",
+          "tag": "Geography"
+        },
+        {
+          "category": "Original Source (Samples, Lyrics, Etc.)",
+          "tag": "Embedded Video"
+        },
+        {
+          "category": "Cultural References",
+          "tag": "Locations"
+        }
+      ],
+      "uuid": "ee098fdb-5dbb-4c3d-b562-6db867e4a0c7"
     }
   ],
   "set": "Default",
