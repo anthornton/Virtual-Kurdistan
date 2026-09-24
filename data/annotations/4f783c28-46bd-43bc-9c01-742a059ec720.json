@@ -68,6 +68,22 @@
       ],
       "tags": [],
       "uuid": "ff4341d7-f86c-4d95-8fae-35e23e8b358a"
+    },
+    {
+      "start_time": 27,
+      "end_time": 40,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Scene and soundscape change to village."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "1628bdb6-2bfa-4809-ad9d-03d4f276a812"
     }
   ],
   "set": "Default",
