@@ -111,6 +111,27 @@
         }
       ],
       "uuid": "5d84258d-910f-4b9a-8a8d-11505f3669c8"
+    },
+    {
+      "start_time": 145,
+      "end_time": 150,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Video embedded of a woman - needs more research"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Original Source (Samples, Lyrics, Etc.)",
+          "tag": "Embedded Video"
+        }
+      ],
+      "uuid": "1fd7c912-75dc-4807-a2e1-22269217dcb5"
     }
   ],
   "set": "Default",
