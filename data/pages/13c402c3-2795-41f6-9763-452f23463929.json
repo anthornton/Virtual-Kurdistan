@@ -4,11 +4,12 @@
   "created_by": "anthornton",
   "title": "Helly Luv - Revolution",
   "slug": "helly-luv-revolution",
-  "updated_at": "2026-05-11T20:32:19.337Z",
+  "updated_at": "2026-09-24T20:03:55.053Z",
   "updated_by": "anthornton",
   "autogenerate": {
     "enabled": true,
     "type": "event",
     "type_id": "58ec30cd-9a8e-42eb-bc4c-921a90c2b503"
-  }
+  },
+  "parent": "ea974858-e2d9-4aec-89a9-afcb48c9a431"
 }
