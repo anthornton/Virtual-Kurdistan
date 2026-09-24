@@ -30,31 +30,6 @@
       "uuid": "aef08717-5f38-4c47-a872-0177a9f82eff"
     },
     {
-      "start_time": 6,
-      "end_time": 7,
-      "annotation": [
-        {
-          "type": "paragraph",
-          "children": [
-            {
-              "text": "A low whistle/whirling tone of wind emerges out of the end of the explosion."
-            }
-          ]
-        }
-      ],
-      "tags": [
-        {
-          "category": "Soundscape",
-          "tag": "Bombs/explosions"
-        },
-        {
-          "category": "Soundscape",
-          "tag": "Wind"
-        }
-      ],
-      "uuid": "ce9a888d-9d16-45f8-97a5-38154af15df7"
-    },
-    {
       "start_time": 0,
       "end_time": 17,
       "annotation": [
