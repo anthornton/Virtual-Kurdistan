@@ -30,27 +30,6 @@
       "uuid": "aef08717-5f38-4c47-a872-0177a9f82eff"
     },
     {
-      "start_time": 3,
-      "end_time": 6,
-      "annotation": [
-        {
-          "type": "paragraph",
-          "children": [
-            {
-              "text": "The high pitch screech of artillery (?) crescendos until explosion."
-            }
-          ]
-        }
-      ],
-      "tags": [
-        {
-          "category": "Soundscape",
-          "tag": "Bombs/explosions"
-        }
-      ],
-      "uuid": "d26cf705-2516-4497-92d2-fa1568227e2e"
-    },
-    {
       "start_time": 6,
       "end_time": 7,
       "annotation": [
