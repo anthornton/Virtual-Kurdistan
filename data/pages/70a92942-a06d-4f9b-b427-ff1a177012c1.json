@@ -4,11 +4,12 @@
   "created_by": "anthornton",
   "title": "Serhado - Ez Kurdistan im",
   "slug": "serhado-ez-kurdistan-im",
-  "updated_at": "2026-05-11T21:01:28.657Z",
+  "updated_at": "2026-09-24T20:03:17.319Z",
   "updated_by": "anthornton",
   "autogenerate": {
     "enabled": true,
     "type": "event",
     "type_id": "00db3fb7-a01f-41b3-99d7-5cad202b77d4"
-  }
+  },
+  "parent": "ea974858-e2d9-4aec-89a9-afcb48c9a431"
 }
