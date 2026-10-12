@@ -4,11 +4,12 @@
   "created_by": "anthornton",
   "title": "Kardox - Kani Azadi",
   "slug": "kardox-kani-azadi",
-  "updated_at": "2026-04-16T19:22:46.314Z",
+  "updated_at": "2026-10-12T18:05:30.899Z",
   "updated_by": "anthornton",
   "autogenerate": {
     "enabled": true,
     "type": "event",
     "type_id": "66d0ce2a-7d1f-413f-8ef9-72711eee1af9"
-  }
+  },
+  "parent": "b6b0cd74-a11b-44ec-bf18-f2b2e65fbfcf"
 }
