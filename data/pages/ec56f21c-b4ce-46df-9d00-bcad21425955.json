@@ -4,11 +4,12 @@
   "created_by": "anthornton",
   "title": "Ciwan Haco Uppsala Concert (December 2025)",
   "slug": "ciwan-haco-uppsala-concert-december-2025",
-  "updated_at": "2026-04-29T20:08:57.033Z",
+  "updated_at": "2026-10-12T18:05:48.548Z",
   "updated_by": "anthornton",
   "autogenerate": {
     "enabled": true,
     "type": "event",
     "type_id": "2eb901cb-2831-44fa-94d6-2ba0837fe4ed"
-  }
+  },
+  "parent": "b6b0cd74-a11b-44ec-bf18-f2b2e65fbfcf"
 }
