@@ -1,0 +1,23 @@
+{
+  "content": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "[Ch. 2 of dissertation]"
+        }
+      ]
+    }
+  ],
+  "title": "Sound/Music and Cultural Translation",
+  "parent": "99e9b6bf-11db-4bb3-b4de-c2b762760c29",
+  "autogenerate": {
+    "enabled": false,
+    "type": "custom"
+  },
+  "slug": "soundmusic-and-cultural-translation",
+  "created_at": "2026-10-12T18:04:57.746Z",
+  "created_by": "anthornton",
+  "updated_at": "2026-10-12T18:04:57.746Z",
+  "updated_by": "anthornton"
+}
